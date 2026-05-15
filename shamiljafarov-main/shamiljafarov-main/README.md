@@ -30,19 +30,11 @@ Motivated, reliable, and always ready to take responsibility.
 Focused on growing as a developer and building meaningful projects.
 
 - 📍 Based in Baku, Azerbaijan  
-- 📧 Email: **shamil.jafarli1@gmail.com**
+- 📧 Email: **rafuniksalimov2013@gmail.com**
 
 ---
 
-## 🔗 Connect with me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-jafarli-bb6b80349/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jafarrovdu/)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jafarovv18)
-
-</div>
 
 ---
 
