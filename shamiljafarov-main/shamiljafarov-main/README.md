@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Shamil Jafarli  
+# Hi 👋, I'm Rafiq salimov  
 ### JavaScript | Front-End Developer
 
 </div>
