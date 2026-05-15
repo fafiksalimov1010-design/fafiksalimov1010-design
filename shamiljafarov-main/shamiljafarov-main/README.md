@@ -32,21 +32,7 @@ Focused on growing as a developer and building meaningful projects.
 - 📍 Based in Baku, Azerbaijan  
 - 📧 Email: **rafuniksalimov2013@gmail.com**
 
----
 
-
-
----
-
-## 🛠 Languages and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,react,tailwind,html,css,sass,bootstrap,ts,python,git,figma" />
-
-</div>
-
----
 
 <div align="center">
 
